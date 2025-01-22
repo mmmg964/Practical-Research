@@ -1,0 +1,194 @@
+body {
+  background-image:url('bg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
+  min-height: 100vh;
+  user-select: none;
+}
+
+
+/*First Paragraph*/
+
+.pg1 {
+  margin-top: 100px;
+  margin: 5%;
+  background: #ffffff99;
+  width: 90%;
+  height:475px;
+  border-radius: 16px;
+  border: 5px solid #000;
+}
+
+.pg1 hr {
+border-top: 1px solid #000;
+border-bottom: 1px solid #000;
+}
+
+.pg1 ul li {
+  margin: 5px;
+  text-align: left;
+  font-size: 30px;
+  margin-left: 500px;
+  background: rgba(135, 207, 235, 0.500);
+  border-radius: 16px;
+  color: rgb(165, 41, 72);
+  width: 100px;
+  height: auto;
+}
+
+.pg1 h1 {
+  text-align: Center;
+  padding: 20px;
+  background: rgba(135, 207, 235, 0.500);
+  color: rgb(160, 95, 111);
+}
+
+.pg1 h2 {
+  text-align: Center;
+  background: rgba(235, 225, 135, 0.5);
+  width: 40%;
+  transform: translate(375px);
+  height: auto;
+  border-radius: 16px;
+  color: coral
+}
+
+.pg1 h3 {
+  text-align: Center;
+}
+
+/*2nd Paragraph*/
+
+.pg2 {
+  margin: 5%;
+  background: #ffffff99;
+  width: 90%;
+  height:auto;
+  border-radius: 16px;
+  padding-bottom: 10px;
+  border: 5px solid #000;
+}
+
+.pg2 h1 {
+  text-align: Center;
+  padding: 20px;
+  background: rgba(135, 207, 235, 0.500);
+  color: rgb(160, 95, 111);
+}
+
+.pg2 .f1 {
+  margin: 5px;
+  text-align: left;
+  font-size: 30px;
+  margin-left: 300px;
+  background: rgba(135, 207, 235, 0.500);
+  border-radius: 16px;
+  color: rgb(165, 41, 72);
+  width: 500px;
+  height: auto;
+}
+.pg2 .f2 {
+  margin: 5px;
+  text-align: left;
+  font-size: 30px;
+  margin-left: 300px;
+  background: rgba(135, 207, 235, 0.500);
+  border-radius: 16px;
+  color: rgb(165, 41, 72);
+  width: 500px;
+  height: auto;
+}
+.pg2 .f3 {
+  margin: 5px;
+  text-align: left;
+  font-size: 30px;
+  margin-left: 300px;
+  background: rgba(135, 207, 235, 0.500);
+  border-radius: 16px;
+  color: rgb(165, 41, 72);
+  width: 500px;
+  height: auto;
+}
+
+/*Paragraph 2 Hover*/
+.pg2 .f1:hover {
+  font-size: 50px;
+  font-style: bold;
+}
+
+.pg2 .f2:hover {
+  font-size: 50px;
+  font-style: bold;
+}
+
+.pg2 .f3:hover {
+  font-size: 50px;
+  font-style: bold;
+}
+
+
+/*Paragraph 3*/
+
+.pg3 {
+  margin: 5%;
+  background: #ffffff99;
+  width: 90%;
+  height:auto;
+  border-radius: 16px;
+  padding-bottom: 10px;
+  border: 5px solid #000;
+}
+
+.pg3 h1 {
+  text-align: Center;
+  padding: 20px;
+  background: rgba(135, 207, 235, 0.500);
+  color: rgb(160, 95, 111);
+}
+
+.pg3 ul li {
+  margin: 5px;
+  text-align: left;
+  font-size: 30px;
+  margin-left: 300px;
+  background: rgba(135, 207, 235, 0.500);
+  border-radius: 16px;
+  color: rgb(165, 41, 72);
+  width: 500px;
+  height: auto;
+}
+
+/*Paragraph 3 Hover*/
+.pg3 .f1:hover {
+  font-size: 50px;
+  font-style: bold;
+}
+
+.pg3 .f2:hover {
+  font-size: 50px;
+  font-style: bold;
+}
+
+/*Paragraph 4*/
+
+.pg4 {
+  margin: 5%;
+  background: #ffffff99;
+  width: 90%;
+  height:auto;
+  border-radius: 16px;
+  padding-bottom: 10px;
+  border: 5px solid #000;
+}
+
+.pg4 h1 {
+  text-align: Center;
+  padding: 20px;
+  background: rgba(135, 207, 235, 0.500);
+  color: rgb(160, 95, 111);
+}
+
+
