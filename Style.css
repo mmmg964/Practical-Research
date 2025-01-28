@@ -49,7 +49,6 @@ border-bottom: 1px solid #000;
   text-align: Center;
   background: rgba(235, 225, 135, 0.5);
   width: 40%;
-  transform: translate(375px);
   height: auto;
   border-radius: 16px;
   color: coral
@@ -160,7 +159,6 @@ border-bottom: 1px solid #000;
   margin: 5px;
   text-align: left;
   font-size: 30px;
-  margin-left: 300px;
   background: rgba(135, 207, 235, 0.500);
   border-radius: 16px;
   color: rgb(165, 41, 72);
